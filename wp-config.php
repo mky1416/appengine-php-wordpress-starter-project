@@ -26,7 +26,7 @@
         /** Note that from App Engine, the password is not required, so leave it blank here */
         define('DB_HOST', ':/cloudsql/your-project-id:wordpress');
         define('DB_USER', 'root');
-        define('DB_PASSWORD', '');
+        define('DB_PASSWORD', 'yp43YI43!');
     } else {
         /** Local environment MySQL login info */
         define('DB_HOST', '127.0.0.1');
